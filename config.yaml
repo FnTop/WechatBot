@@ -1,6 +1,6 @@
 chatGPTAccountPool:
-  - email: lelunqiang@outlook.com
-    password: Cjain37186
+  - email: "lelunqiang@outlook.com"
+    password: "Cjain37186"
     isGoogleLogin: false
 chatPrivateTiggerKeyword: ""
 openAIProxy: ""
